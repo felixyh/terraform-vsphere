@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"centos-server-linuxvm","Source":"registry.terraform.io/Terraform-VMWare-Modules/vm/vsphere","Version":"3.4.1","Dir":".terraform/modules/centos-server-linuxvm"}]}
